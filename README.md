@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Muhammad Fauzan Gifari</h1>
 <h3 align="center">An Ordinary Man Interested in Web Development</h3>
 
-- 👨‍💻 Personal website at [fauzangfri.com](fauzangfri.com)
+- 👨‍💻 Personal website at [**fauzangfri.com**](https://fauzangfri.com)
 
 - 📫 How to reach me **fauzan.gifari@gmail.com**
 

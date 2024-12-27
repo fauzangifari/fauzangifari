@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Muhammad Fauzan Gifari Dzul Fahmi</h1>
-<h3>An Ordinary Man Interested in Web Development</h3>
+<h3>An Ordinary Man Interested in Software Developer</h3>
 
 <p>I enjoy learning new things and exploring the world around me. I have an interest in the world of technology, and strive to constantly develop my skills and knowledge in this field. I also enjoy sharing my experience and knowledge with others.</p>
 
